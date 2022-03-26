@@ -18,9 +18,6 @@ Détails technique
 - Le dashboard accepte uniquement du json
 - Le choix du language est libre
 - La documentation de l’API se trouve ici : http://api.irail.be
-- Publie ton code via git sur ton compte GitHub
-
-A titre d'information, j'ai réalisé cet exercice en 45 min.
 
 2. Amélioration (±15min)
 
