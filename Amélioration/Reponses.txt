@@ -1,0 +1,5 @@
+1) Le thème doit être changé par un autre template pour que le site soit plus lisible. Par exemple, les images utilisées doivent être dynamiques, le menu et la police d'écriture doivent être changés, le contenu doit être centré, les ads doivent être bien positionnées.
+
+2) Le site doit être responsive pour tous les appareils (mobiles, etc).
+
+3) Il faut cacher les informations relatives au serveur où le site est hébergé. Tel quel, on peut facilement obtenir les informations du serveur, un hacker pourrait donc utiliser ça comme faille.

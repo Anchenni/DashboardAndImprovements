@@ -1,0 +1,16 @@
+{
+    "percentage": {
+        "pourcentTrainNivelles_To_Charleroi": 16,
+        "pourcentTrainCharleroi_To_Nivelles": 16
+    },
+    "averageDelay": {
+        "averageDelay_Departure_Nivelles_To_Charleroi": 0.0,
+        "averageDelay_Arrival_Nivelles_To_Charleroi": 60.0,
+        "averageDelay_Departure_Charleroi_To_Nivelles": 0.0,
+        "averageDelay_Arrival_Charleroi_To_Nivelles": 0.0
+    },
+    "numberOfCancelled": {
+        "NumberCanceledTrainsNivelles_To_Charleroi": 0,
+        "NumberCanceledTrainsCharleroi_To_Nivelles": 0
+    }
+}
